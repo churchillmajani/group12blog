@@ -1,0 +1,83 @@
+/* CreatePost.css */
+@media screen and (max-width: 768px) {
+    
+}
+
+body {
+    text-align: center;
+    padding: 0;
+    box-sizing: border-box;
+    margin: 0;
+    flex: 1;
+    justify-content: center;
+    align-items: center;
+    background-color: #7091E6;
+    
+  }
+
+  .create-post-section{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: #7091E6;
+  }
+
+  .create-post-header {
+    text-align: center;
+    margin-top: 70px;
+    margin-left: 45px;
+    height: 60px;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+  }
+
+  .CreatePost-title{
+    font-size: 20px;
+    margin-bottom: 5px;
+  }
+
+  .CreatePost-content{
+    font-size: 20px;
+    margin-top: 0;
+    vertical-align: top;
+    margin-left: -30.5px;
+  }
+  
+
+  .CreatePost-title-input{
+    padding: 5px;
+    font-size: 20px;
+    width: 400px;
+    height: 30px;
+    margin-bottom: 20px;
+    border: 1px solid #8f8585;
+    border-radius: 4px;
+  }
+
+  .CreatePost-content-textarea{
+    margin-top: 5px;
+    padding: 5px;
+    font-size: 20px;
+    width: 400px;
+    height: 90px;
+    margin-bottom: 20px;
+    border: 1px solid #8f8585;
+    border-radius: 4px;
+  }
+
+  .create-post-button{
+    font-size: 20px;
+    background-color: green;
+    color: white;
+    padding: 10px 20px;
+    border: gray 1px solid;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 10px;
+    margin-left: 50px;
+  }
+
+  
