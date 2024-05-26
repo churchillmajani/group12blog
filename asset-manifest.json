@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/group12blog/static/css/main.f110ef20.css",
+    "main.js": "/group12blog/static/js/main.b936fda5.js",
+    "index.html": "/group12blog/index.html",
+    "main.f110ef20.css.map": "/group12blog/static/css/main.f110ef20.css.map",
+    "main.b936fda5.js.map": "/group12blog/static/js/main.b936fda5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f110ef20.css",
+    "static/js/main.b936fda5.js"
+  ]
+}
